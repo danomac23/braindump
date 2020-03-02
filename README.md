@@ -1,7 +1,1 @@
-testing the README
-
-still seems fine
-
-yep, all here.
-
-adding another line to the README.
+This would be all of the READ ME info and instructions.
